@@ -1,4 +1,4 @@
-Extracted from "acts_as_network":git://github.com/sjlombardo/acts_as_network.git.
+Extracted from "acts_as_network":http://github.com/sjlombardo/acts_as_network.
 
 acts_as_union simply presents a union'ed view of one or more ActiveRecord 
 relationships (has_many or has_and_belongs_to_many, acts_as_network, etc).
